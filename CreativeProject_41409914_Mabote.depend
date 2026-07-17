@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1728781342 source:c:\users\kgaugelo\downloads\creativeproject_41409914_mabote\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<limits>
+	<memory>
+
+1728781342 source:c:\users\kgaugelo\desktop\creativeproject_41409914_mabote\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<limits>
+	<memory>
+
